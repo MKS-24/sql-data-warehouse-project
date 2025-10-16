@@ -117,9 +117,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Muhammad Khuzaima Siddiqui**
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-<a href="https://www.linkedin.com/in/muhammad-khuzaima-siddiqui-567981334/" target="_blank">
+Let's stay in touch! Feel free to connect with me on <a href="https://www.linkedin.com/in/muhammad-khuzaima-siddiqui-567981334/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
